@@ -1,0 +1,2 @@
+Order(id=0, date=2024-12-16, amount=150.5, status=Completed, customer=null)
+This order was executed by customers that does not exist in DB

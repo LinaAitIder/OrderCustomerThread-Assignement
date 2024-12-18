@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2024-12-16",
+    "amount": 150.50,
+    "status": "Completed",
+    "customer_id": 635
+  },
+  {
+    "date": "2024-12-15",
+    "amount": 89.99,
+    "status": "Pending",
+    "customer_id": 1
+  },
+  {
+    "date": "2024-12-14",
+    "amount": 120.00,
+    "status": "Cancelled",
+    "customer_id": 4
+  }
+]
